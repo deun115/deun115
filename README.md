@@ -9,7 +9,7 @@ I'm junior data engineer.
 - Currently, I am studying big data processing through AWS.
 
 ### Languages and Tools:
-<img src="./python.png" width="25" height="25"> <img src="./django-icon.svg" width="25" height="25"> <img src="./mysql-logo.svg" width="25" height="25"> <img src="./postgresql-logo.png" width="25" height="25"> <img src="./airflow-logo.png" width="25" height="25">
+<img src="./python.png" width="30" height="30"> <img src="./django-icon.svg" width="30" height="30"> <img src="./mysql-logo.svg" width="30" height="30"> <img src="./postgresql.png" width="30" height="30"> <img src="./airflow.png" width="30" height="30">
 
 <!--
 **deun115/deun115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
