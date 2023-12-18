@@ -4,9 +4,10 @@ I'm junior data engineer.
 
 ### Learning Journey
 - I'm interested in designing and constructing data pipelines and ETL processes.
-- I have experience handling large-scale data and am keen on efficient data storage and processing methods.
+- I have experience handling large-scale data and I have experience utilizing Superset for data visualization.
 - I aim to expand my knowlegde of distributed systems and big data tools.
 - Currently, I am studying big data processing through AWS.
+- Plus, I am studying backend engineering using django.
 
 ### Languages and Tools:
 <img src="./python.png" width="30" height="30"> <img src="./django-icon.svg" width="30" height="30"> <img src="./mysql-logo.svg" width="30" height="30"> <img src="./postgresql.png" width="30" height="30"> <img src="./airflow.png" width="30" height="30">
