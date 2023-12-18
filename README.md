@@ -1,4 +1,12 @@
 ### Hi there 👋
+</br>
+I'm junior data engineer.
+
+### Learning Journey
+- I'm interested in designing and constructing data pipelines and ETL processes.
+- I have experience handling large-scale data and am keen on efficient data storage and processing methods.
+- I aim to expand my knowlegde of distributed systems and big data tools.
+- Currently, I am studying big data processing through AWS.
 
 <!--
 **deun115/deun115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
