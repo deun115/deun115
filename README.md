@@ -12,6 +12,9 @@ I'm junior data engineer.
 ### Languages and Tools:
 <img src="./python.png" width="30" height="30"> <img src="./django-icon.svg" width="30" height="30"> <img src="./mysql-logo.svg" width="30" height="30"> <img src="./postgresql.png" width="30" height="30"> <img src="./airflow.png" width="30" height="30">
 
+### View more Details! Notion Links
+[https://www.notion.so/Data-Assistant-aca275c13da6437bbdadc53eebdbd02f?pvs=4](https://www.notion.so/Data-Assistant-aca275c13da6437bbdadc53eebdbd02f?pvs=4)
+
 <!--
 **deun115/deun115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
